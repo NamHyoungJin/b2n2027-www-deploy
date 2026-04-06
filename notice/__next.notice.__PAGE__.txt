@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[49075,["/_next/static/chunks/23ec0d1876d54b75.js","/_next/static/chunks/fddb5cc9b15718fb.js","/_next/static/chunks/2babe7f1117a98a2.js","/_next/static/chunks/9510842c96fd2192.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/4d2ba0ff3008d38c.js"],"OutletBoundary"]
+0:{"buildId":"v4F9wRn96h6PwMw8DEWMD","rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":["$","div",null,{"className":"flex min-h-[40vh] items-center justify-center bg-stone-50 px-6","children":["$","p",null,{"className":"text-sm text-stone-600","children":"불러오는 중…"}]}],"children":["$","$L3",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/23ec0d1876d54b75.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/fddb5cc9b15718fb.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/2babe7f1117a98a2.js","async":true}],["$","script","script-3",{"src":"/_next/static/chunks/9510842c96fd2192.js","async":true}]],["$","$L4",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
