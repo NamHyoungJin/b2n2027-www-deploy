@@ -1,4 +1,3 @@
-# Next `output: export` + trailingSlash → `out/main/index.html`
-# 슬래시 없이 /main 으로 들어온 경우 /main/ 로 통일 (Netlify)
-
-/main   /main/  301
+# Netlify 등 — 정적 호스트에서 `/main` 레거시 → `/ko/`
+/main   /ko/  301
+/main/  /ko/  301
