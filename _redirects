@@ -1,5 +1,4 @@
-# Next `output: export` + trailingSlash: false → `out/main.html` 등.
-# SPA 폴백으로 루트 index.html만 쏘면 /main 에서 인트로 번들이 떠 검은 화면이 남을 수 있음.
-# Netlify 등에서 아래처럼 실제 html 파일로 연결하세요(호스팅 문법에 맞게 조정).
+# Next `output: export` + trailingSlash → `out/main/index.html`
+# 슬래시 없이 /main 으로 들어온 경우 /main/ 로 통일 (Netlify)
 
-/main   /main.html   200
+/main   /main/  301
