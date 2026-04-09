@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 2:"$Sreact.suspense"
-3:I[23098,["/_next/static/chunks/337bb0619af24b42.js"],"default"]
+3:I[23098,["/_next/static/chunks/81a3c0ca49a2c472.js"],"default"]
 4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/4d2ba0ff3008d38c.js"],"OutletBoundary"]
-0:{"buildId":"qkEAFJCxEKPKqTn8uicDY","rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":["$","div",null,{"className":"flex min-h-screen items-center justify-center bg-[#1a261f] px-6","children":["$","p",null,{"className":"text-sm text-textGray","children":"불러오는 중…"}]}],"children":["$","$L3",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/337bb0619af24b42.js","async":true}]],["$","$L4",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"mkNqsY_aJHIbtN5J29G0N","rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":["$","div",null,{"className":"flex min-h-screen items-center justify-center bg-[#1a261f] px-6","children":["$","p",null,{"className":"text-sm text-textGray","children":"불러오는 중…"}]}],"children":["$","$L3",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/81a3c0ca49a2c472.js","async":true}]],["$","$L4",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
